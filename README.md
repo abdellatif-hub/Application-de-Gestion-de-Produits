@@ -66,7 +66,7 @@ TPJS3/
 <img width="2547" height="1029" alt="image" src="https://github.com/user-attachments/assets/210087bb-7a14-47dc-a399-b818e4970e0b" />
 
 ## l'exécution :
-<img width="2553" height="1171" alt="image" src="https://github.com/user-attachments/assets/97b5d5a3-63b8-4a68-bc32-d65a1e5514b9" />
+<img width="2553" height="1171" alt="Votre texte de paragraphe" src="https://github.com/user-attachments/assets/1a47627d-7dac-4ca9-9071-f16361fa1a22" />
 
 ---
 ### ✏️ 2. Modification
@@ -77,7 +77,7 @@ TPJS3/
   ## code source :
   <img width="2523" height="1058" alt="image" src="https://github.com/user-attachments/assets/b78f7955-dc97-4bd1-94f5-1c6f60299610" />
 ## l'exécution :
-<img width="2554" height="1174" alt="image" src="https://github.com/user-attachments/assets/857d5129-5ecc-4cfe-ae15-6d99c123e1d4" />
+<img width="2553" height="1171" alt="Votre texte de paragraphe" src="https://github.com/user-attachments/assets/bf5ec1f6-12da-4103-9a37-ab102e475b47" />
 
 ---
 
@@ -89,7 +89,7 @@ TPJS3/
   <img width="2172" height="419" alt="image" src="https://github.com/user-attachments/assets/ea2f789e-5469-4d78-8daa-fd36a0bae8e0" />
 
   ## l'exécution :
-  <img width="2545" height="1169" alt="image" src="https://github.com/user-attachments/assets/14498f4a-626e-46ad-a109-83f04088c151" />
+<img width="2553" height="1171" alt="Votre texte de paragraphe" src="https://github.com/user-attachments/assets/bc7e5da9-ac1c-4fd7-9585-4cf37d653e24" />
 
 
   ---
