@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>TP 2 - Manipulation du DOM</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Gestion des Produits</h1>
+
+    <input type="text" id="nom" placeholder="Nom">
+    <input type="number" id="prix" placeholder="Prix">
+    <input type="number" id="quantite" placeholder="Quantité">
+    <button onclick="ajouterElement()">Ajouter</button>
+
+    <br><br>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nom</th>
+                <th>Prix</th>
+                <th>Quantité</th>
+                <th>Total</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+        </tbody>
+    </table>
+
+    <br>
+
+    <p id="totalGeneral">Total Général : 0</p>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
